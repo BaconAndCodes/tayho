@@ -108,7 +108,7 @@ ul li:hover ul li {
     width: 100%;
     display: block;
     height: auto;
-    transition: 05s ease;
+    transition: 02s ease;
 }
 .coffeehouse:hover img{
   transform: scale(1.1,1.1);
